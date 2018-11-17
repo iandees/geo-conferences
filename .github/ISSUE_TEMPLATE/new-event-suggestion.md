@@ -7,10 +7,12 @@ labels:
 
 **What** is the name of the event?
 
-**Who** is the intended audience?
+**Who** is organizing the conference?
 
 **Where** is the event?
 
 **When** is this event?
+
+Is there a **website** to learn more?
 
 Is there a **deadline for talk submissions**?
